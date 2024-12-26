@@ -1,0 +1,65 @@
+[
+  {
+    "key": 1,
+    "title": "Bag Haven",
+    "imageSrc": "project/handbag_photos_example1.webp",
+    "description": "Bag Haven is an eCommerce platform developed using ReactJS, designed for enthusiasts of high-quality bags. The project features a user-friendly interface where users can browse a variety of bags, read detailed descriptions, and make purchases. Key features include a secure checkout system and a responsive design that enhances the shopping experience.",
+
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Weather app",
+    "imageSrc": "project/weather.jpeg",
+    "description": "This Weather Web Application, built with ReactJS, provides users with real-time weather updates and forecasts. It integrates with a weather API to offer accurate and up-to-date information, including temperature, humidity, and weather conditions. Users can search for weather details by city and view forecasts to plan their day accordingly.",
+    "source": "https://github.com/abhishekSinghNitian/mausam"
+  },
+  {
+    "key": 3,
+    "title": "The Hungry Table",
+    "imageSrc": "project/foodmenu.jpeg",
+    "description": "The Hungry Table is a restaurant management web application created with ReactJS. It features an interactive menu where users can explore dishes, view images, and read descriptions. The app allows users to place orders online, make reservations, and view their order history, all within a sleek and intuitive interface.",
+
+    "source": "https://github.com/abhishekSinghNitian/food-menu"
+  },
+  {
+    "key": 4,
+    "title": "Tic-Tac-Toe",
+    "imageSrc": "project/tic-tac-toe.jpeg",
+    "description": "This Tic-Tac-Toe game, developed using ReactJS, offers a fun and interactive experience for players of all ages. The game features a classic grid layout with the ability to play against either another player or an AI. It includes score tracking, a reset button, and a visually appealing design for an engaging gameplay experience.",
+
+    "source": "https://github.com/abhishekSinghNitian/tic_tac_toe"
+  },
+  {
+    "key": 5,
+    "title": "React Quiz App",
+    "imageSrc": "project/quiz.jpeg",
+    "description": "The React Quiz App is an engaging platform for testing knowledge on various topics. Built with ReactJS, this app allows users to take quizzes, track their scores, and receive detailed feedback. The app features a modern design and real-time updates, making it a valuable tool for learning and assessment.",
+
+    "source": "https://github.com/abhishekSinghNitian/quiz_app"
+  },
+  {
+    "key": 6,
+    "title": "React ToDoList App",
+    "imageSrc": "project/Todo List.jpg",
+    "description": "The React ToDoList App helps users manage their tasks efficiently. Developed with ReactJS, it offers functionalities such as adding, editing, and deleting tasks, setting deadlines, and marking tasks as complete. The app features a clean and responsive design, enhancing productivity and organization.",
+
+    "source": "https://github.com/abhishekSinghNitian/To_Do_List"
+  },
+  {
+    "key": 7,
+    "title": "Calculator",
+    "imageSrc": "project/calci.png",
+    "description": "This Calculator application offers a versatile and user-friendly tool for performing arithmetic calculations. Developed using React, it includes basic operations, a clean layout, and responsive design. Whether for simple calculations or more complex computations, this app provides a reliable and efficient solution.",
+
+    "source": "https://github.com/abhishekSinghNitian/calculator"
+  },
+  {
+    "key": 8,
+    "title": "BMI Calculator",
+    "imageSrc": "project/bmi.png",
+    "description": "The BMI Calculator is a straightforward application that helps users calculate their Body Mass Index (BMI) and assess their weight status. Built with React, it features a clean interface for inputting height and weight, and provides instant feedback along with health recommendations based on the BMI result.",
+
+    "source": "https://github.com/abhishekSinghNitian/BMI_Calculator"
+  }
+]
